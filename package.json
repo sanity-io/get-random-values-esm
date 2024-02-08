@@ -8,16 +8,16 @@
     "getRandomValues",
     "webcrypto"
   ],
-  "homepage": "https://github.com/stipsan/get-random-values-esm#readme",
+  "homepage": "https://github.com/sanity-io/get-random-values-esm#readme",
   "bugs": {
-    "url": "https://github.com/stipsan/get-random-values-esm/issues"
+    "url": "https://github.com/sanity-io/get-random-values-esm/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stipsan/get-random-values-esm.git"
+    "url": "git+https://github.com/sanity-io/get-random-values-esm.git"
   },
   "license": "MIT",
-  "author": "Cody Olsen <stipsan@gmail.com>",
+  "author": "Sanity.io <hello@sanity.io>",
   "sideEffects": false,
   "exports": {
     ".": {
