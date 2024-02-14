@@ -10,5 +10,5 @@ export default function getRandomValues(typedArray) {
     throw new Error('WebCrypto not available in this environment')
   }
 
-  return getRandomValues(typedArray)
+  return crypto.getRandomValues(typedArray)
 }
