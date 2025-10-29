@@ -54,7 +54,7 @@
     "singleQuote": true
   },
   "dependencies": {
-    "get-random-values": "^1.2.2"
+    "get-random-values": "^4.1.0"
   },
   "devDependencies": {
     "@skypack/package-check": "^0.2.2",
