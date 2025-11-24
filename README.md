@@ -1,5 +1,8 @@
 # get-random-values-esm
 
+> [!CAUTION]
+> This package is deprecated. Use `crypto.getRandomValues()` instead 
+
 A wrapper that rebundles [`get-random-values`](https://www.npmjs.com/package/get-random-values) into ESM, so you can use it in your `vite`, `skypack`, or wherever you need ESM.
 Also adds support for [node v15's WebCrypto support](https://nodejs.org/docs/latest-v15.x/api/webcrypto.html#webcrypto_crypto_getrandomvalues_typedarray) and TypeScript definitions.
 
